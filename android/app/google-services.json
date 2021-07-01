@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349694347132",
+    "firebase_url": "https://flutter-projek-akhir-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-projek-akhir",
+    "storage_bucket": "flutter-projek-akhir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349694347132:android:0e20f94c5000059bd4c6f9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349694347132-8vjsfjh431uud6sucjlqam59kkscadvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzZaGjFcCKhyr9lmsgbsQeM9wjUPbrxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349694347132-8vjsfjh431uud6sucjlqam59kkscadvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
